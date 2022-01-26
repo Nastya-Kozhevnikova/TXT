@@ -1,0 +1,8 @@
+Phyton
+Android Studio
+Charles
+Fiddler
+Jmeter
+SQL
+Postgres
+Linux
