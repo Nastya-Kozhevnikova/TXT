@@ -1,2 +1,4 @@
-new folder
-new file
+Fio-Kozhevnikova Anastasia Nikolaevna
+age-29
+home_pets - 2
+salary - 1000
