@@ -1,5 +1,5 @@
 favorite_film - Harry Potter
 favorite_serial - Supernatural
 favorite_food - pasta
-favorite_ time_[D[D[D[D[[C[C[C[C[C[D[D[D[[C[C[C[C[C[C[C[Dof_the_year - summer
+favorite_ time_of_the_year - summer
 the country you want to visit - USA
