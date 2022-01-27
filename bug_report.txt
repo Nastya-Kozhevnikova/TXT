@@ -1,2 +1,6 @@
-bug_report 
-
+ID - 1
+Title - the Registration button is not pressed
+Steps to reproduce -open the website and click the register button 
+Expected result - when you click on the registration button, a questionnaire appears to fill in the data
+Actual result - when you click on the register button, nothing happens
+Priority - Medium
